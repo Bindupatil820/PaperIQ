@@ -1,0 +1,27 @@
+{
+  "admin": {
+    "salt": "22892c7469954e8fb7515df797bc2e36",
+    "password_hash": "aaa3e3d30b3772bc85dfcc7aa2fe43a44ec63d7eaf91b51fceefb2d72d07a50f",
+    "role": "Admin"
+  },
+  "researcher": {
+    "salt": "ff06d49a70afab6faa592ae03df00286",
+    "password_hash": "220810744a0c405f84cad30c8f5950a9fe45cfb49ae69235aef1b559b9376cc6",
+    "role": "Researcher"
+  },
+  "user": {
+    "salt": "830b117b1619e91a7167dc0e3adecd9f",
+    "password_hash": "2cd5545f68e71427e32e67abad29dd1b2b3e4f86102357d8bebe2d9f811aabd9",
+    "role": "User"
+  },
+  "bindupatil": {
+    "salt": "45e6808523a1bfb8c77b392e1e09f869",
+    "password_hash": "d4657aaad0b014449496a148385a2fdee8f419b5e6dcc8fd1e182d12c03a91d1",
+    "role": "User"
+  },
+  "researcher1": {
+    "salt": "b0b78980fd304cca3bbdfc2f644f5782",
+    "password_hash": "3240873a0043a31f8fad1471bc60606c6db045aaf8b24602efdbcee0135df250",
+    "role": "Researcher"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "logins": [
+    {
+      "username": "admin",
+      "role": "Admin",
+      "timestamp": "2026-03-07T00:07:16.355986",
+      "action": "login"
+    }
+  ],
+  "sessions": []
+}
